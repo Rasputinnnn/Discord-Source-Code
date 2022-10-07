@@ -4,5 +4,5 @@
 ------------------------------
 - Dont use it for malicious things like exploit
 ------------------------------
-- **Im not responsable of your actions with **
+- Im not responsable of your actions with
 
